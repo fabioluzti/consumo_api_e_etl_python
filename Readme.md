@@ -1,9 +1,9 @@
 
-# Explorando IA Generativa em um Pipeline de ETL com Python
+# Explorando Apis em um Pipeline de ETL com Python
 
-Este projeto é a resolução idealizada para o desafio "Explorando IA Generativa em um Pipeline de ETL com Python" do bootcamp do Santander Ciência de Dados com Python 2023.
+Este projeto é a resolução idealizada para o desafio "Explorando Apis em um Pipeline de ETL com Python" do bootcamp do Santander Ciência de Dados com Python 2023.
 
-O problema proposto nesse desafio é a criação de uma rotina de pipeline de etl com a linguagem python fazendo o consumo de uma api criada pela empresa DIO (Digital Innovation One), após o consumo dos dados é necessário fazer o enriquecimento utilizando a api do ChatGpt, criada pela empresa OpenAI, para gerar uma mensagem de marketing que será enviada de volta para a api da DIO. 
+O problema proposto nesse desafio é a criação de uma rotina de pipeline de etl com a linguagem python fazendo o consumo de uma api criada pela empresa DIO (Digital Innovation One), após o consumo dos dados é necessário fazer o enriquecimento utilizando uma api para consulta de cotações dos ativos do banco Santander e geraando uma mensagem de marketing para os clientes. 
 
 
 ## Stack utilizada
@@ -14,7 +14,6 @@ O problema proposto nesse desafio é a criação de uma rotina de pipeline de et
 <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />  
 <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />  
 </p>
-
 
 
 ## Autores
